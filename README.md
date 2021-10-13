@@ -10,7 +10,7 @@
 - 🎓 These days i am learning Flutter and doing a course on Object Oriented Designs.
 - 👯 I am open to collaborate on mobile applications
 - 💬 Ask me about Flutter and Dart.
-- 😎 you can find my resume [here](https://drive.google.com/file/d/1w0rRExQUlQ8STA1xy76sbLOnNmXOfnTn/view?usp=sharing).
+- 😎 you can find my resume [here](https://drive.google.com/file/d/1GvwfkJ4UgMyIPdlRtXqkQ8HLf1dD0BBP/view?usp=sharing).
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thisisamank&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
