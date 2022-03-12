@@ -1,24 +1,16 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">, This is Aman.
+Joined Github **4** years ago.
 
-### About Me!  🚀
+Since then I pushed **699** commits, opened **22** issues, submitted **32** pull requests, received **24** stars across **49** personal projects and contributed to **14** public repositories.
 
-🏫 I am a 2nd Year Engineering student at Maharaja Agrasen Institute of Technology, Delhi. I am pursuing my Bachelors in Information Technology and Engineering.
+Most used languages across my projects:
 
-👨‍💻 I am really passionate about Building new Software and learning new Technologies
- 
+![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B182.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B15.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.9%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B12.9%25)
+![Sass](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a53b70&message=Sass%EF%B8%B11.8%25)
+![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%EF%B8%B10.9%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.7%25)
 
-- 🎓 These days i am learning Flutter and doing a course on Object Oriented Designs.
-- 👯 I am open to collaborate on mobile applications
-- 💬 Ask me about Flutter and Dart.
-- 😎 you can find my resume [here](https://drive.google.com/file/d/1GvwfkJ4UgMyIPdlRtXqkQ8HLf1dD0BBP/view?usp=sharing).
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=thisisamank&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-## Reach out to me here: 📫
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Aman Kumar \| Linkedin" width="34">](https://www.linkedin.com/in/aman-kumar-8b788a159) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/thisisaman.k/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/thisisaman01) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thisisamank@gmail.com) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthisisamank&count_bg=%230EFFDB&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
