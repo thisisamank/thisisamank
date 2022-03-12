@@ -1,4 +1,4 @@
-Hi, I am Aman! I am a 2nd year undergrad at Maharaja Agrasen Institute of Delhi, I am pursuing B.Tech in Information Technology and Engineering. I love to code and helping new folks learn to code.
+Hi, I am Aman! I am a 2nd year undergrad at Maharaja Agrasen Institute of Delhi, I am pursuing B.Tech in Information Technology and Engineering. I love to code and help new folks learn to code.
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
@@ -12,7 +12,7 @@ Most used languages across my projects:
 
 <div align="right">
   <p><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
-  <p><sub>Also special thanks to <a href="https://github.com/championswimmer">@championswimmer</a> for inspiration to this template :P</sub></p>
+  <p><sub>Also special thanks to <a href="https://github.com/championswimmer">@championswimmer</a> for inspiration of this template :P</sub></p>
  </div>
 
 
