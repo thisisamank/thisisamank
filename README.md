@@ -1,12 +1,12 @@
 Hi, I am Aman! I am a 2nd year undergrad at Maharaja Agrasen Institute of Delhi, I am pursuing B.Tech in Information Technology and Engineering. I love to code and help new folks learn to code.
 
-I joined Github **4** years ago. Since then I pushed **701** commits, opened **22** issues, submitted **72** pull requests, received **24** stars across **49** personal projects and contributed to **14** public repositories.
+I joined Github **4** years ago. Since then I pushed **704** commits, opened **23** issues, submitted **72** pull requests, received **24** stars across **50** personal projects and contributed to **15** public repositories.
 
 I am a big believer of writing clean and maintainable code so my I try my best to follow the best practices in my apps. Sometimes I write blogs and you can find them [here](https://thisisamank.me). I am also active on [twitter](https://twitter.com/thisisaman01) and here's my [linkedin](https://linkedin.com/in/thisisamank). If my profile seems interesting to you can find my resume [here](https://drive.google.com/file/d/1GvwfkJ4UgMyIPdlRtXqkQ8HLf1dD0BBP/view?usp=sharing).
 
 Most used languages across my projects:
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B168.5%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B168.4%25)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B129.5%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.4%25)
