@@ -4,7 +4,7 @@ I joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 
 I am a big believer of writing clean and maintainable code so my I try my best to follow the best practices in my apps. Sometimes I write blogs and you can find them [here](https://thisisamank.me). I am also active on [twitter](https://twitter.com/thisisaman01) and here's my [linkedin](https://linkedin.com/in/thisisamank). If my profile seems interesting to you can find my resume [here](https://drive.google.com/file/d/1GvwfkJ4UgMyIPdlRtXqkQ8HLf1dD0BBP/view?usp=sharing).
 
-I am mostly working with flutter these days. However I'm also learning backend development with FASTApi. Apart from this I'm also learning core computer science subjects that are taught in my college. I also love music so you find me holding guitar or sitting with a keyboard someday :P
+I am mostly working with flutter these days. However I'm also learning backend development. Apart from this I'm also learning core computer science subjects that are taught in my college (but on my own ofc?). I love music so you find me holding guitar or sitting with a keyboard someday :P
 
 <div align="right">
   <p><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
