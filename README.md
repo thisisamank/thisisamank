@@ -1,6 +1,6 @@
 Hi, I am Aman! I am a pre-final year undergrad at Maharaja Agrasen Institute of Delhi, I am pursuing B.Tech in Information Technology and Engineering. I love to code and help new folks learn to code.
 
-I joined Github **5** years ago. Since then I pushed **1706** commits, opened **27** issues, submitted **170** pull requests, received **39** stars across **83** personal projects and contributed to **20** public repositories.
+I joined Github **5** years ago. Since then I pushed **1713** commits, opened **27** issues, submitted **171** pull requests, received **39** stars across **83** personal projects and contributed to **20** public repositories.
 
 I am a big believer of writing clean and maintainable code so my I try my best to follow the best practices in my apps. Sometimes I write blogs and you can find them [here](https://thisisamank.me). I am also active on [twitter](https://twitter.com/thisisaman01) and here's my [linkedin](https://linkedin.com/in/thisisamank). If my profile seems interesting to you can find my resume [here](https://drive.google.com/file/d/1GvwfkJ4UgMyIPdlRtXqkQ8HLf1dD0BBP/view?usp=sharing).
 
